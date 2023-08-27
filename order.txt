@@ -1,0 +1,13 @@
+git remote --> show remote repos
+
+git remote remove origin --> removes remote repos
+
+git add . --> adds every files that got changes to the next stage.
+
+git commit -m "comment" --> allow you to add a comment, prepare evreything to be pushed
+
+git push origin master --> pushes the code to remote repo.
+
+git remote add origin + link --> to add a new remote repo, 
+
+git clone + link --> copying any remote repo
