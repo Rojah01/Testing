@@ -11,3 +11,5 @@ git push origin master --> pushes the code to remote repo.
 git remote add origin + link --> to add a new remote repo, 
 
 git clone + link --> copying any remote repo
+
+git pull --> pulls new changes
