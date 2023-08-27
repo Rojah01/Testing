@@ -15,4 +15,9 @@ git clone + link --> copying any remote repo
 git pull --> pulls new changes
 git status --> tells us the status of the code 
 
-git pull
+git branch --> shows all the available branch
+
+git branch + branchName --> creates new branch 
+
+git checkout littleFeature
+
