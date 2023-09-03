@@ -13,6 +13,7 @@ git remote add origin + link --> to add a new remote repo,
 git clone + link --> copying any remote repo
 
 git pull --> pulls new changes
+
 git status --> tells us the status of the code 
 
 git branch --> shows all the available branch
