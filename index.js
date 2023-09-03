@@ -1,3 +1,5 @@
 function test () {
-  console.log('testing;');
+  console.log('its working ya rgaaaaalaaaaahaaaaa3');
 }
+
+test();
